@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="UaMUuUCRmStZCQWPxqqN-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-100" y="5" width="750" height="45" as="geometry" />
+        </mxCell>
         <mxCell id="UaMUuUCRmStZCQWPxqqN-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="467.5" y="80" width="185" height="370" as="geometry" />
         </mxCell>
@@ -65,15 +68,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UaMUuUCRmStZCQWPxqqN-16" value="程控软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-20" y="20" width="60" height="30" as="geometry" />
+          <mxGeometry x="-10" y="12.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UaMUuUCRmStZCQWPxqqN-17" value="程控器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="20" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UaMUuUCRmStZCQWPxqqN-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UaMUuUCRmStZCQWPxqqN-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
