@@ -100,8 +100,8 @@
         <mxCell id="UaMUuUCRmStZCQWPxqqN-28" value="IPG2数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="630" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UaMUuUCRmStZCQWPxqqN-30" value="TLM2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="600" width="80" height="80" as="geometry" />
+        <mxCell id="UaMUuUCRmStZCQWPxqqN-30" value="TLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="605" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UaMUuUCRmStZCQWPxqqN-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UaMUuUCRmStZCQWPxqqN-30" target="UaMUuUCRmStZCQWPxqqN-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
