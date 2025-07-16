@@ -14,10 +14,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UaMUuUCRmStZCQWPxqqN-2" value="IPG1数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-80" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="-70" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UaMUuUCRmStZCQWPxqqN-3" value="IPG2数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UaMUuUCRmStZCQWPxqqN-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="100" width="210" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
