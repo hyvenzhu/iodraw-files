@@ -65,10 +65,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UaMUuUCRmStZCQWPxqqN-16" value="程控软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-10" y="30" width="60" height="30" as="geometry" />
+          <mxGeometry x="-20" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UaMUuUCRmStZCQWPxqqN-17" value="程控器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="30" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UaMUuUCRmStZCQWPxqqN-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
