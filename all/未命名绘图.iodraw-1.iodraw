@@ -149,7 +149,7 @@
           <mxGeometry x="170" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UaMUuUCRmStZCQWPxqqN-42" value="403MHz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="550" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UaMUuUCRmStZCQWPxqqN-43" value="403MHz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="690" width="60" height="30" as="geometry" />
@@ -171,6 +171,9 @@
             <mxPoint x="360" y="680" as="sourcePoint" />
             <mxPoint x="410" y="630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UaMUuUCRmStZCQWPxqqN-48" value="IPG地址+程控数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="720" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
