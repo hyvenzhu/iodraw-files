@@ -13,8 +13,11 @@
             <mxPoint x="410" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UaMUuUCRmStZCQWPxqqN-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UaMUuUCRmStZCQWPxqqN-2" value="IPG1数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UaMUuUCRmStZCQWPxqqN-3" value="IPG1数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
