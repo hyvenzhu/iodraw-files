@@ -123,8 +123,11 @@
         <mxCell id="DTfMtqwTgSdxORsgf7B9-16" value="同一个变更号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-4" y="630" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTfMtqwTgSdxORsgf7B9-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="520" width="60" height="30" as="geometry" />
+        <mxCell id="DTfMtqwTgSdxORsgf7B9-17" value="X" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="595" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTfMtqwTgSdxORsgf7B9-18" value="X" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="605" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
