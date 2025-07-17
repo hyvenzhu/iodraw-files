@@ -93,7 +93,7 @@
         <mxCell id="DTfMtqwTgSdxORsgf7B9-7" value="SR2202：DC202409-003" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="615" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DTfMtqwTgSdxORsgf7B9-8" value="OCD变更未关闭" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DTfMtqwTgSdxORsgf7B9-8" value="OCD变更未关闭" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="-275" y="530" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DTfMtqwTgSdxORsgf7B9-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
