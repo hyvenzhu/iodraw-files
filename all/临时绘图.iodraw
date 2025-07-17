@@ -87,7 +87,7 @@
         <mxCell id="DTfMtqwTgSdxORsgf7B9-5" value="生产软件：EC202503-005" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="710" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DTfMtqwTgSdxORsgf7B9-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DTfMtqwTgSdxORsgf7B9-6" value="中性机临时归档" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="590" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
