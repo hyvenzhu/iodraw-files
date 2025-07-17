@@ -72,6 +72,12 @@
         <mxCell id="7MhDLJ_XXGlp5Z8m_Jjm-25" value="程控器&lt;br&gt;WLR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DTfMtqwTgSdxORsgf7B9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DTfMtqwTgSdxORsgf7B9-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="528" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
