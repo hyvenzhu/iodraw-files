@@ -76,7 +76,7 @@
           <mxGeometry x="270" y="585" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DTfMtqwTgSdxORsgf7B9-2" value="SR1101-16X&lt;br&gt;SR1180-16X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="510" width="90" height="40" as="geometry" />
+          <mxGeometry x="295" y="520" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DTfMtqwTgSdxORsgf7B9-3" value="生产软件：EC202506-013" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="655" width="160" height="50" as="geometry" />
@@ -94,7 +94,7 @@
           <mxGeometry x="-310" y="615" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DTfMtqwTgSdxORsgf7B9-8" value="OCD变更未关闭" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="-275" y="530" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DTfMtqwTgSdxORsgf7B9-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
