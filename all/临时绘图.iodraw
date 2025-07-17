@@ -73,22 +73,22 @@
           <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DTfMtqwTgSdxORsgf7B9-1" value="SR2202：DC202502-002&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="640" width="160" height="50" as="geometry" />
+          <mxGeometry x="560" y="640" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DTfMtqwTgSdxORsgf7B9-2" value="SR1101-16X&lt;br&gt;SR1180-16X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="35" y="585" width="90" height="40" as="geometry" />
+          <mxGeometry x="585" y="585" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DTfMtqwTgSdxORsgf7B9-3" value="生产软件：EC202506-013" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="710" width="160" height="50" as="geometry" />
+          <mxGeometry x="560" y="710" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DTfMtqwTgSdxORsgf7B9-4" value="SR2202：EC202503-005" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="640" width="160" height="50" as="geometry" />
+          <mxGeometry x="-40" y="640" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DTfMtqwTgSdxORsgf7B9-5" value="生产软件：EC202503-005" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="710" width="160" height="50" as="geometry" />
+          <mxGeometry x="-40" y="710" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DTfMtqwTgSdxORsgf7B9-6" value="中性机临时归档" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="595" width="90" height="20" as="geometry" />
+          <mxGeometry y="595" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DTfMtqwTgSdxORsgf7B9-7" value="SR2202：DC202409-003" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="670" width="160" height="50" as="geometry" />
