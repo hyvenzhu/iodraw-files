@@ -141,15 +141,6 @@
         <mxCell id="PEvHYbqwTSoStNyNOMV7-3" value="客服系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PEvHYbqwTSoStNyNOMV7-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PEvHYbqwTSoStNyNOMV7-3" target="PEvHYbqwTSoStNyNOMV7-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-230" y="970" as="sourcePoint" />
-            <mxPoint x="-180" y="920" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-20" y="910" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PEvHYbqwTSoStNyNOMV7-8" value="MQTT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-450" y="900" width="60" height="30" as="geometry" />
         </mxCell>
@@ -173,6 +164,12 @@
         </mxCell>
         <mxCell id="PEvHYbqwTSoStNyNOMV7-11" value="HTTPS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-300" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PEvHYbqwTSoStNyNOMV7-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PEvHYbqwTSoStNyNOMV7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="1020" as="sourcePoint" />
+            <mxPoint x="70" y="970" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
