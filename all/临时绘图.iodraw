@@ -147,10 +147,10 @@
             <mxPoint x="-180" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PEvHYbqwTSoStNyNOMV7-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PEvHYbqwTSoStNyNOMV7-8" value="MQTT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-400" y="920" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PEvHYbqwTSoStNyNOMV7-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PEvHYbqwTSoStNyNOMV7-1" target="PEvHYbqwTSoStNyNOMV7-2">
+        <mxCell id="PEvHYbqwTSoStNyNOMV7-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PEvHYbqwTSoStNyNOMV7-1" target="PEvHYbqwTSoStNyNOMV7-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-274.99912963569426" y="906.9707745608573" as="sourcePoint" />
             <mxPoint x="-460.69" y="1020" as="targetPoint" />
