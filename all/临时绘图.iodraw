@@ -177,15 +177,6 @@
         <mxCell id="PEvHYbqwTSoStNyNOMV7-13" value="HTTPS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="880" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PEvHYbqwTSoStNyNOMV7-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-530" y="1120" as="sourcePoint" />
-            <mxPoint x="-430" y="1120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PEvHYbqwTSoStNyNOMV7-16" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="PEvHYbqwTSoStNyNOMV7-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
