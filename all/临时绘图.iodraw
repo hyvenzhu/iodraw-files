@@ -153,13 +153,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PEvHYbqwTSoStNyNOMV7-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PEvHYbqwTSoStNyNOMV7-1">
+        <mxCell id="PEvHYbqwTSoStNyNOMV7-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;shape=arrow;" edge="1" parent="1" target="PEvHYbqwTSoStNyNOMV7-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-390" y="1050" as="sourcePoint" />
             <mxPoint x="-340" y="1000" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-214" y="1050" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PEvHYbqwTSoStNyNOMV7-11" value="HTTPS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
