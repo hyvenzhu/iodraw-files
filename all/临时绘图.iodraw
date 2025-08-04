@@ -138,7 +138,7 @@
         <mxCell id="PEvHYbqwTSoStNyNOMV7-2" value="PAD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PEvHYbqwTSoStNyNOMV7-3" value="景昱设备管控系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PEvHYbqwTSoStNyNOMV7-3" value="PAD 管控系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PEvHYbqwTSoStNyNOMV7-8" value="MQTT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
