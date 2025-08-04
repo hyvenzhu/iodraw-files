@@ -139,10 +139,7 @@
           <mxGeometry x="-510" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PEvHYbqwTSoStNyNOMV7-3" value="客服系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1020" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PEvHYbqwTSoStNyNOMV7-5" value="API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="810" width="60" height="30" as="geometry" />
+          <mxGeometry x="-40" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
