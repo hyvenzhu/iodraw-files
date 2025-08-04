@@ -138,10 +138,10 @@
         <mxCell id="PEvHYbqwTSoStNyNOMV7-8" value="MQTT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-450" y="885" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PEvHYbqwTSoStNyNOMV7-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.108;exitY=0.575;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PEvHYbqwTSoStNyNOMV7-1" target="Xv11avWrk54rgbbTcG0n-3" edge="1">
+        <mxCell id="PEvHYbqwTSoStNyNOMV7-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.108;exitY=0.575;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PEvHYbqwTSoStNyNOMV7-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-274.99912963569426" y="906.9707745608573" as="sourcePoint" />
-            <mxPoint x="-450" y="990" as="targetPoint" />
+            <mxPoint x="-450" y="1020" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-450" y="886" />
             </Array>
