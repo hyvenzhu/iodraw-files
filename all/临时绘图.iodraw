@@ -135,7 +135,7 @@
         <mxCell id="PEvHYbqwTSoStNyNOMV7-1" value="云服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="840" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PEvHYbqwTSoStNyNOMV7-2" value="PAD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PEvHYbqwTSoStNyNOMV7-2" value="PAD（景昱工作台）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PEvHYbqwTSoStNyNOMV7-3" value="客服系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
