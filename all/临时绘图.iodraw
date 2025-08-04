@@ -180,6 +180,9 @@
         <mxCell id="Xv11avWrk54rgbbTcG0n-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="890" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Xv11avWrk54rgbbTcG0n-5" value="PAD 端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="986" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
