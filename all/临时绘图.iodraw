@@ -213,6 +213,9 @@
             <mxPoint x="-350" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NgP5mCqNiJQ_3ubH9wC3-10" value="SR1101" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="1420" width="290" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
