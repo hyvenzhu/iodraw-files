@@ -38,9 +38,9 @@
           <mxGeometry x="310" y="40" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-23" value="接听" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
-          <mxGeometry x="200" y="110" width="70" height="40" as="geometry" />
+          <mxGeometry x="202" y="110" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.568;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-20">
+        <mxCell id="kY3arLtyic_JSn4a2tRg-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="234.65999999999997" y="80" as="sourcePoint" />
             <mxPoint x="234.65999999999997" y="110" as="targetPoint" />
