@@ -19,19 +19,13 @@
           <mxGeometry y="20" width="1030" height="310" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-10" value="预约登记" style="rounded=0;whiteSpace=wrap;html=1;" parent="kY3arLtyic_JSn4a2tRg-2" vertex="1">
-          <mxGeometry x="73" y="130" width="82" height="39" as="geometry" />
+          <mxGeometry x="73" y="130" width="87" height="39" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-18" value="发起呼叫" style="rounded=0;whiteSpace=wrap;html=1;" parent="kY3arLtyic_JSn4a2tRg-2" vertex="1">
           <mxGeometry x="273" y="216" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-27" value="生成预约&lt;div&gt;二维码&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kY3arLtyic_JSn4a2tRg-2" vertex="1">
           <mxGeometry x="73" y="217" width="82" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="kY3arLtyic_JSn4a2tRg-2" source="kY3arLtyic_JSn4a2tRg-10" target="kY3arLtyic_JSn4a2tRg-27" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="149" y="177" as="sourcePoint" />
-            <mxPoint x="199" y="127" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-53" value="是否重呼" style="rhombus;whiteSpace=wrap;html=1;" parent="kY3arLtyic_JSn4a2tRg-2" vertex="1">
           <mxGeometry x="429" y="206" width="70" height="60" as="geometry" />
@@ -87,12 +81,6 @@
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-80" value="开始" style="ellipse;whiteSpace=wrap;html=1;" parent="kY3arLtyic_JSn4a2tRg-2" vertex="1">
           <mxGeometry x="79" y="51" width="70" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="kY3arLtyic_JSn4a2tRg-2" source="kY3arLtyic_JSn4a2tRg-80" target="kY3arLtyic_JSn4a2tRg-10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="119" y="91" as="sourcePoint" />
-            <mxPoint x="169" y="41" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-83" value="" style="endArrow=none;html=1;rounded=0;" parent="kY3arLtyic_JSn4a2tRg-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
