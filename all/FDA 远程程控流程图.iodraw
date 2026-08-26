@@ -110,10 +110,10 @@
             <mxPoint x="150" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3">
+        <mxCell id="kY3arLtyic_JSn4a2tRg-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-1" source="kY3arLtyic_JSn4a2tRg-20" target="kY3arLtyic_JSn4a2tRg-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="150" as="sourcePoint" />
-            <mxPoint x="320" y="100" as="targetPoint" />
+            <mxPoint x="270" y="350" as="sourcePoint" />
+            <mxPoint x="320" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
