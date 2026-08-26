@@ -32,13 +32,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-20" value="是否&lt;div&gt;接听&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
-          <mxGeometry x="200" y="30" width="71" height="60" as="geometry" />
+          <mxGeometry x="200" y="20" width="71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-22" value="挂断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="310" y="40" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-23" value="接听" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="200" y="110" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kY3arLtyic_JSn4a2tRg-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.568;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="234.65999999999997" y="80" as="sourcePoint" />
+            <mxPoint x="234.65999999999997" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.552;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-1" source="kY3arLtyic_JSn4a2tRg-10" target="kY3arLtyic_JSn4a2tRg-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -50,12 +56,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="150" as="sourcePoint" />
             <mxPoint x="290" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="440" as="sourcePoint" />
-            <mxPoint x="330" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
