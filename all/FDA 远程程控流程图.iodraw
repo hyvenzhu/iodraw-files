@@ -17,7 +17,7 @@
           <mxGeometry x="194" y="70" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-27" value="生成预约&lt;div&gt;二维码&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
-          <mxGeometry x="65" y="110" width="70" height="30" as="geometry" />
+          <mxGeometry x="65" y="110" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-3" value="SR1420 患者端" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-1">
           <mxGeometry y="200" width="580" height="170" as="geometry" />
