@@ -187,8 +187,8 @@
             <mxPoint x="379" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-88" value="打开体外程控器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
-          <mxGeometry x="577" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="kY3arLtyic_JSn4a2tRg-90" value="建立双向视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="463" y="673" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
