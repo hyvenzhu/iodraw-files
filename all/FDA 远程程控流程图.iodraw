@@ -10,7 +10,7 @@
         <mxCell id="kY3arLtyic_JSn4a2tRg-2" value="SR1836 医生端" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-1">
           <mxGeometry y="20" width="580" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-3" value="SR1420患者端" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-1">
+        <mxCell id="kY3arLtyic_JSn4a2tRg-3" value="SR1420 患者端" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-1">
           <mxGeometry y="200" width="580" height="170" as="geometry" />
         </mxCell>
       </root>
