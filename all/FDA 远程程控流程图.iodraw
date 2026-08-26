@@ -19,10 +19,10 @@
         <mxCell id="kY3arLtyic_JSn4a2tRg-11" value="扫码预约二维码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="50" y="40" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-12" value="等待呼叫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
+        <mxCell id="kY3arLtyic_JSn4a2tRg-12" value="等待医生呼叫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="180" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3">
+        <mxCell id="kY3arLtyic_JSn4a2tRg-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" target="kY3arLtyic_JSn4a2tRg-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="60" as="sourcePoint" />
             <mxPoint x="190" y="10" as="targetPoint" />
