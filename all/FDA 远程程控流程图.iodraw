@@ -1,20 +1,17 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram id="GRismiR4WE8Q4H0yQPqe" name="第 1 页">
-    <mxGraphModel dx="1609" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="919" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kY3arLtyic_JSn4a2tRg-1" value="FDA 远程程控流程图" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="150" width="480" height="380" as="geometry" />
+          <mxGeometry x="210" y="150" width="510" height="310" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-2" value="SR1836" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-1">
-          <mxGeometry y="20" width="480" height="120" as="geometry" />
+          <mxGeometry y="20" width="510" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-3" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-1">
-          <mxGeometry y="140" width="480" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-4" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-1">
-          <mxGeometry y="260" width="480" height="120" as="geometry" />
+        <mxCell id="kY3arLtyic_JSn4a2tRg-3" value="SR1420" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-1">
+          <mxGeometry y="140" width="510" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
