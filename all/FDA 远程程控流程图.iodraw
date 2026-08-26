@@ -46,6 +46,11 @@
             <mxPoint x="235.60000000000014" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kY3arLtyic_JSn4a2tRg-39" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kY3arLtyic_JSn4a2tRg-24">
+          <mxGeometry x="-0.0058" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-33" value="收到呼叫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="194" y="40" width="90" height="40" as="geometry" />
         </mxCell>
