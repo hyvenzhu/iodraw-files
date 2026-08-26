@@ -166,7 +166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-11" value="扫描预约&lt;div&gt;二维码&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
-          <mxGeometry x="69" y="71" width="90" height="40" as="geometry" />
+          <mxGeometry x="69" y="61" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-20" value="是否接听" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="283" y="151" width="71" height="60" as="geometry" />
@@ -195,12 +195,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-46" value="等待医生呼叫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
-          <mxGeometry x="69" y="151" width="90" height="40" as="geometry" />
+          <mxGeometry x="69" y="141" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-11" target="kY3arLtyic_JSn4a2tRg-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="119" y="158" as="sourcePoint" />
-            <mxPoint x="169" y="108" as="targetPoint" />
+            <mxPoint x="119" y="148" as="sourcePoint" />
+            <mxPoint x="169" y="98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-73" value="挂断会话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
