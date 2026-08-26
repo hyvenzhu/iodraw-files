@@ -13,6 +13,9 @@
         <mxCell id="kY3arLtyic_JSn4a2tRg-10" value="预约登记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
           <mxGeometry x="65" y="75" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kY3arLtyic_JSn4a2tRg-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
+          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-3" value="SR1420 患者端" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-1">
           <mxGeometry y="200" width="580" height="170" as="geometry" />
         </mxCell>
@@ -31,7 +34,7 @@
         <mxCell id="kY3arLtyic_JSn4a2tRg-16" value="接听呼叫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="180" y="110" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3">
+        <mxCell id="kY3arLtyic_JSn4a2tRg-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-12" target="kY3arLtyic_JSn4a2tRg-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="90" as="sourcePoint" />
             <mxPoint x="260" y="40" as="targetPoint" />
