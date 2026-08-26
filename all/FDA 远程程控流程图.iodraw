@@ -196,6 +196,9 @@
         <mxCell id="kY3arLtyic_JSn4a2tRg-93" value="等待医生程控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="609" y="280" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kY3arLtyic_JSn4a2tRg-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-94" target="kY3arLtyic_JSn4a2tRg-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-94" value="收到程控指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="760" y="40" width="90" height="40" as="geometry" />
         </mxCell>
