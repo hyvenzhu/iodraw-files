@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram id="GRismiR4WE8Q4H0yQPqe" name="第 1 页">
-    <mxGraphModel dx="1609" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1110" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
         <mxCell id="kY3arLtyic_JSn4a2tRg-150" value="② 视频通话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
           <mxGeometry x="215" width="345" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-151" value="③远程程控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
+        <mxCell id="kY3arLtyic_JSn4a2tRg-151" value="③ 远程程控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
           <mxGeometry x="560" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-3" value="SR1420 患者端" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-1">
