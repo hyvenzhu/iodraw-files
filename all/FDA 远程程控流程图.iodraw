@@ -196,11 +196,6 @@
         <mxCell id="kY3arLtyic_JSn4a2tRg-93" value="等待医生程控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="609" y="280" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" target="kY3arLtyic_JSn4a2tRg-121">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="805" y="80" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-95" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-90" target="kY3arLtyic_JSn4a2tRg-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="80" as="sourcePoint" />
@@ -223,7 +218,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-121" value="执行程控指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
-          <mxGeometry x="760" y="121" width="90" height="40" as="geometry" />
+          <mxGeometry x="760" y="40" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-126" target="kY3arLtyic_JSn4a2tRg-128">
           <mxGeometry relative="1" as="geometry" />
