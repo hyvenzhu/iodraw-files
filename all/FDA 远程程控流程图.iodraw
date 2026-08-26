@@ -93,6 +93,9 @@
             <mxPoint x="200" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kY3arLtyic_JSn4a2tRg-51" value="双向视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="583" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
