@@ -11,7 +11,7 @@
           <mxGeometry y="20" width="530" height="270" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-10" value="预约登记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
-          <mxGeometry x="54" y="101" width="82" height="34" as="geometry" />
+          <mxGeometry x="54" y="102" width="82" height="34" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-18" value="发起呼叫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
           <mxGeometry x="233" y="185" width="90" height="40" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry y="290" width="530" height="450" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-11" value="扫描预约&lt;div&gt;二维码&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
-          <mxGeometry x="50" y="57" width="90" height="40" as="geometry" />
+          <mxGeometry x="50" y="40" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-20" value="是否接听" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="243" y="120" width="71" height="60" as="geometry" />
@@ -145,7 +145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-46" value="等待医生呼叫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
-          <mxGeometry x="50" y="147" width="90" height="40" as="geometry" />
+          <mxGeometry x="50" y="120" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-11" target="kY3arLtyic_JSn4a2tRg-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
