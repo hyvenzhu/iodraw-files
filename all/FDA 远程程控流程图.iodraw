@@ -57,23 +57,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-46" value="等待呼叫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
+        <mxCell id="kY3arLtyic_JSn4a2tRg-46" value="等待医生呼叫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="50" y="120" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-11" target="kY3arLtyic_JSn4a2tRg-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="100" as="sourcePoint" />
             <mxPoint x="150" y="50" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-46" target="kY3arLtyic_JSn4a2tRg-33">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="140" as="sourcePoint" />
-            <mxPoint x="190" y="90" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="170" y="140" />
-              <mxPoint x="170" y="60" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-1" source="kY3arLtyic_JSn4a2tRg-20" target="kY3arLtyic_JSn4a2tRg-18">
