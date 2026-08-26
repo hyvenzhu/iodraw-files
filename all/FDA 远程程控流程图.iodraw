@@ -134,11 +134,6 @@
         <mxCell id="kY3arLtyic_JSn4a2tRg-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kY3arLtyic_JSn4a2tRg-2" source="kY3arLtyic_JSn4a2tRg-131" target="kY3arLtyic_JSn4a2tRg-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-141" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kY3arLtyic_JSn4a2tRg-140">
-          <mxGeometry x="0.2549" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-131" value="是否重试" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
           <mxGeometry x="910" y="176" width="70" height="60" as="geometry" />
         </mxCell>
@@ -149,7 +144,7 @@
           <mxGeometry x="770" y="95" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-139" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
-          <mxGeometry x="910" y="102" width="70" height="45" as="geometry" />
+          <mxGeometry x="910" y="95" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-3" value="SR1420 患者端" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-1">
           <mxGeometry y="290" width="1060" height="450" as="geometry">
