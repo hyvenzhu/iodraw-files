@@ -19,9 +19,6 @@
         <mxCell id="kY3arLtyic_JSn4a2tRg-6" value="挂号预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="50" y="70" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
-          <mxGeometry x="150" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-1" source="kY3arLtyic_JSn4a2tRg-6" target="kY3arLtyic_JSn4a2tRg-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="260" as="sourcePoint" />
