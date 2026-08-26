@@ -28,16 +28,13 @@
         <mxCell id="kY3arLtyic_JSn4a2tRg-3" value="SR1420 患者端" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-1">
           <mxGeometry y="200" width="580" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-11" target="kY3arLtyic_JSn4a2tRg-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-11" value="扫码预约&lt;div&gt;二维码&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="50" y="40" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-12" value="等待呼叫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="50" y="110" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" target="kY3arLtyic_JSn4a2tRg-12">
+        <mxCell id="kY3arLtyic_JSn4a2tRg-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-11" target="kY3arLtyic_JSn4a2tRg-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="80" as="sourcePoint" />
             <mxPoint x="190" y="10" as="targetPoint" />
