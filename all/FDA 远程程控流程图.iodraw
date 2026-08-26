@@ -25,12 +25,6 @@
             <mxPoint x="180" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="60" as="sourcePoint" />
-            <mxPoint x="200" y="10" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-3" value="SR1420 患者端" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-1">
           <mxGeometry y="200" width="710" height="300" as="geometry" />
         </mxCell>
@@ -101,6 +95,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="150" as="sourcePoint" />
             <mxPoint x="280" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kY3arLtyic_JSn4a2tRg-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-1" source="kY3arLtyic_JSn4a2tRg-27" target="kY3arLtyic_JSn4a2tRg-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="80" as="sourcePoint" />
+            <mxPoint x="200" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
