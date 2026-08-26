@@ -40,10 +40,10 @@
         <mxCell id="kY3arLtyic_JSn4a2tRg-20" value="是否接听" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry x="200" y="120" width="71" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-20">
+        <mxCell id="kY3arLtyic_JSn4a2tRg-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="234.65999999999997" y="180" as="sourcePoint" />
-            <mxPoint x="236" y="210" as="targetPoint" />
+            <mxPoint x="233.5" y="180" as="sourcePoint" />
+            <mxPoint x="235.60000000000014" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-33" value="收到呼叫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-3">
