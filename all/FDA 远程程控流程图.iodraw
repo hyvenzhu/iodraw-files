@@ -211,10 +211,10 @@
           <mxGeometry x="607" y="141" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-91" value="连接体外&lt;div&gt;程控器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kY3arLtyic_JSn4a2tRg-3" vertex="1">
-          <mxGeometry x="607" y="223" width="90" height="40" as="geometry" />
+          <mxGeometry x="607" y="221" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-92" value="连接刺激器" style="rounded=0;whiteSpace=wrap;html=1;" parent="kY3arLtyic_JSn4a2tRg-3" vertex="1">
-          <mxGeometry x="607" y="303" width="90" height="40" as="geometry" />
+          <mxGeometry x="607" y="301" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="kY3arLtyic_JSn4a2tRg-3" source="kY3arLtyic_JSn4a2tRg-93" target="kY3arLtyic_JSn4a2tRg-159" edge="1">
           <mxGeometry relative="1" as="geometry" />
