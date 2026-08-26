@@ -152,10 +152,10 @@
           <mxGeometry x="950" y="126" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-148" value="预约登记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
-          <mxGeometry x="20" width="160" height="30" as="geometry" />
+          <mxGeometry x="20" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-150" value="视频通话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
-          <mxGeometry x="180" width="360" height="30" as="geometry" />
+          <mxGeometry x="210" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-151" value="远程程控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
           <mxGeometry x="540" width="490" height="30" as="geometry" />
