@@ -229,6 +229,9 @@
             <mxPoint x="870" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kY3arLtyic_JSn4a2tRg-126" value="连接刺激器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="839" y="722" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
