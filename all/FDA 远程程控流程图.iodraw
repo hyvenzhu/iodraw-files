@@ -15,12 +15,6 @@
             <mxPoint x="359" y="131" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kY3arLtyic_JSn4a2tRg-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="kY3arLtyic_JSn4a2tRg-1" source="kY3arLtyic_JSn4a2tRg-27" target="kY3arLtyic_JSn4a2tRg-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="169" y="138" as="sourcePoint" />
-            <mxPoint x="219" y="88" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-2" value="SR1836 医生端" style="swimlane;startSize=20;horizontal=0;html=1;" parent="kY3arLtyic_JSn4a2tRg-1" vertex="1">
           <mxGeometry y="20" width="1030" height="310" as="geometry" />
         </mxCell>
@@ -31,7 +25,7 @@
           <mxGeometry x="273" y="216" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-27" value="生成预约&lt;div&gt;二维码&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kY3arLtyic_JSn4a2tRg-2" vertex="1">
-          <mxGeometry x="73" y="217" width="82" height="38" as="geometry" />
+          <mxGeometry x="73" y="217" width="82" height="43" as="geometry" />
         </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="kY3arLtyic_JSn4a2tRg-2" source="kY3arLtyic_JSn4a2tRg-10" target="kY3arLtyic_JSn4a2tRg-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
