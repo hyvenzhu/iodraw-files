@@ -123,6 +123,9 @@
         <mxCell id="kY3arLtyic_JSn4a2tRg-85" value="调整程控&lt;span style=&quot;background-color: initial;&quot;&gt;参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
           <mxGeometry x="760" y="186" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kY3arLtyic_JSn4a2tRg-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kY3arLtyic_JSn4a2tRg-2" source="kY3arLtyic_JSn4a2tRg-131" target="kY3arLtyic_JSn4a2tRg-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kY3arLtyic_JSn4a2tRg-131" value="是否重试" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kY3arLtyic_JSn4a2tRg-2">
           <mxGeometry x="910" y="176" width="70" height="60" as="geometry" />
         </mxCell>
@@ -236,6 +239,9 @@
             <mxPoint x="820" y="160" as="sourcePoint" />
             <mxPoint x="805" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kY3arLtyic_JSn4a2tRg-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="kY3arLtyic_JSn4a2tRg-1" source="kY3arLtyic_JSn4a2tRg-130" target="kY3arLtyic_JSn4a2tRg-131">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
