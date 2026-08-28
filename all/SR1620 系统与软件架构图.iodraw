@@ -64,7 +64,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-26" value="应用模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-28" value="医生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-28" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="600" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
