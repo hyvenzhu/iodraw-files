@@ -155,10 +155,10 @@
           <mxGeometry x="120" y="1080" width="880" height="160" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-62" value="&lt;div&gt;操作系统&lt;/div&gt;Android" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175.5" y="1140" width="204.5" height="70" as="geometry" />
+          <mxGeometry x="175.5" y="1125" width="204.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-66" value="云平台&lt;div&gt;API 服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1140" width="322" height="60" as="geometry" />
+          <mxGeometry x="440" y="1125" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-72" value="景昱医疗后台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="110" width="180" height="130" as="geometry" />
