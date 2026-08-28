@@ -4,40 +4,40 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Co62xF_4Ux2GXTN0S5Ce-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" parent="1" vertex="1">
+        <mxCell id="Co62xF_4Ux2GXTN0S5Ce-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="880" height="160" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="240" width="880" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-13" value="" style="group;strokeColor=#007FFF;" vertex="1" connectable="0" parent="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-13" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="62.5" width="240" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
           <mxGeometry width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-3" value="用户角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#007FFF;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-3" value="用户角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
           <mxGeometry x="89.09" width="61.82" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-4" value="医生" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-4" value="医生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
           <mxGeometry x="29.090909090909093" y="43.336666666666666" width="80" height="43.33333333333333" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-9" value="患者" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-9" value="患者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
           <mxGeometry x="139.9990909090909" y="43.336666666666666" width="80" height="43.33333333333333" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-14" value="" style="group;strokeColor=#007FFF;" vertex="1" connectable="0" parent="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-14" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="721" y="62.5" width="260" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-14">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-14">
           <mxGeometry width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-7" value="外部设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#007FFF;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-14">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-7" value="外部设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-14">
           <mxGeometry x="103.53" width="52.94" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-10" value="体外程控器" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-14">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-10" value="体外程控器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-14">
           <mxGeometry x="32.99823529411765" y="43.336666666666666" width="84.11764705882352" height="43.33333333333333" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-11" value="刺激器" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-14">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-11" value="刺激器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-14">
           <mxGeometry x="145.2941176470588" y="43.336666666666666" width="84.11764705882352" height="43.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-21" value="蓝牙通信&lt;br&gt;&lt;div&gt;BLE/SPP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -157,10 +157,10 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-66" value="云平台&lt;div&gt;API 服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="443" y="945" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-72" value="景昱医疗后台" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-72" value="景昱医疗后台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="462" y="62.5" width="190" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-73" value="外部环境层" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-73" value="外部环境层" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="-37.5" y="40" width="117.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-74" value="接口层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
