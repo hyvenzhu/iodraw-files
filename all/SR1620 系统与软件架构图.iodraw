@@ -173,7 +173,7 @@
           <mxGeometry x="-42.5" y="800" width="122.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-77" value="运行环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-37.5" y="960" width="117.5" height="80" as="geometry" />
+          <mxGeometry x="-37.5" y="960" width="117.5" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
