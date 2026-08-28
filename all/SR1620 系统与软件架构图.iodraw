@@ -50,13 +50,13 @@
           <mxGeometry x="180" y="385" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-22" value="云服务&lt;br&gt;HTTPS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="380" width="120" height="50" as="geometry" />
+          <mxGeometry x="380" y="385" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-23" value="本地服务&lt;br&gt;WEB 容器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="380" width="120" height="50" as="geometry" />
+          <mxGeometry x="580" y="385" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-24" value="JS Bridge&lt;br&gt;移动端前端调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="380" width="120" height="50" as="geometry" />
+          <mxGeometry x="780" y="385" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
