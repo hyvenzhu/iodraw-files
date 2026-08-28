@@ -100,8 +100,11 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-39" value="程控核心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="600" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-40" value="本地记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-40" value="患者信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="638" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-41" value="患者信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="648" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
