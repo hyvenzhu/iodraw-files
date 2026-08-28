@@ -161,10 +161,10 @@
           <mxGeometry x="460" y="75" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-73" value="外部环境层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-37.5" y="40" width="127.5" height="200" as="geometry" />
+          <mxGeometry x="-37.5" y="40" width="117.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-74" value="接口层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-37.5" y="280" width="127.5" height="120" as="geometry" />
+          <mxGeometry x="-37.5" y="280" width="117.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-75" value="应用软件层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-43.75" y="440" width="123.75" height="350" as="geometry" />
