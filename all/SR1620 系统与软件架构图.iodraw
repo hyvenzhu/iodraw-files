@@ -157,6 +157,9 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-58" value="文件存储&lt;br&gt;可视化数据/系统日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="438" y="1010" width="172" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-59" value="文件存储&lt;br&gt;可视化数据/系统日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="448" y="1020" width="172" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
