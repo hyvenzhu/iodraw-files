@@ -10,20 +10,8 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="240" width="880" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-13" value="" style="group;strokeColor=#007FFF;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="62.5" width="260" height="107.5" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
-          <mxGeometry width="249.16666666666666" height="90.96153846153845" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-3" value="用户角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#007FFF;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
-          <mxGeometry x="96.51416666666667" width="66.97166666666666" height="26.875" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-4" value="医生" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
-          <mxGeometry x="31.515151515151516" y="35.83608974358974" width="86.66666666666666" height="35.83333333333333" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-9" value="患者" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
-          <mxGeometry x="151.6656818181818" y="35.83608974358974" width="86.66666666666666" height="35.83333333333333" as="geometry" />
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-13" value="" style="group;strokeColor=#007FFF;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="62.5" width="240" height="130" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-14" value="" style="group;strokeColor=#007FFF;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="721" y="62.5" width="260" height="130" as="geometry" />
@@ -174,6 +162,18 @@
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-77" value="运行环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-32.5" y="920" width="117.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="62.5" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-3" value="用户角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="249.09" y="62.5" width="61.82" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-4" value="医生" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="189.0909090909091" y="105.83666666666667" width="80" height="43.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-9" value="患者" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="299.9990909090909" y="105.83666666666667" width="80" height="43.33333333333333" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
