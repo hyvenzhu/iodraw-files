@@ -167,7 +167,7 @@
           <mxGeometry x="-37.5" y="280" width="127.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-75" value="应用软件层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="496" width="140" height="354" as="geometry" />
+          <mxGeometry x="-43.75" y="440" width="123.75" height="350" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-76" value="数据层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-35" y="906" width="125" height="124" as="geometry" />
