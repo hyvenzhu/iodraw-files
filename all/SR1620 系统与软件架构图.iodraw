@@ -175,6 +175,9 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-74" value="接口层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="320" width="130" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-75" value="应用软件层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="496" width="140" height="354" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
