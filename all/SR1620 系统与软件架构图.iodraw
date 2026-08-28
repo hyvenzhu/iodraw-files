@@ -23,7 +23,7 @@
           <mxGeometry x="775" y="275" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="400" width="880" height="320" as="geometry" />
+          <mxGeometry x="120" y="400" width="885" height="320" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="430" width="115" height="180" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="627" y="640" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="760" width="880" height="120" as="geometry" />
+          <mxGeometry x="120" y="760" width="885" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-57" value="本地数据库&lt;br&gt;程控记录/可视化数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="171.5" y="795" width="169" height="50" as="geometry" />
