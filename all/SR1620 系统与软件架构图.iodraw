@@ -91,6 +91,9 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-36" value="云端记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="681" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-37" value="云端记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="723" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
