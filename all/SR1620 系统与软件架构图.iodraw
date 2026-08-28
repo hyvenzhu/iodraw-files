@@ -59,7 +59,7 @@
           <mxGeometry x="780" y="385" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="540" width="880" height="220" as="geometry" />
+          <mxGeometry x="120" y="540" width="880" height="380" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-26" value="应用模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="540" width="60" height="30" as="geometry" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-29" value="用户管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="208" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
