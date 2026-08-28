@@ -25,8 +25,11 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="110" width="460" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="830" y="110" width="60" height="30" as="geometry" />
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-7" value="外部设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
