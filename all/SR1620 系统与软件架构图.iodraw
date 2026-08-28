@@ -158,7 +158,7 @@
           <mxGeometry x="438" y="985" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-72" value="景昱医疗后台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="75" width="180" height="130" as="geometry" />
+          <mxGeometry x="460" y="75" width="170" height="105" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-73" value="外部环境层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-37.5" y="40" width="117.5" height="200" as="geometry" />
