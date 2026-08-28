@@ -59,7 +59,7 @@
           <mxGeometry x="780" y="385" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="540" width="880" height="380" as="geometry" />
+          <mxGeometry x="120" y="540" width="890" height="360" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-26" value="应用模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="540" width="60" height="30" as="geometry" />
@@ -143,7 +143,7 @@
           <mxGeometry x="482.5" y="810" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-54" value="刺激器管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="665" y="810" width="115" height="50" as="geometry" />
+          <mxGeometry x="640" y="810" width="115" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
