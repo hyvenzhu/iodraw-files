@@ -20,7 +20,7 @@
           <mxGeometry x="200" y="160" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-5" value="患者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="414" y="160" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
