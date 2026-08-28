@@ -10,36 +10,6 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="240" width="880" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="62.5" width="240" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
-          <mxGeometry width="230" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-3" value="用户角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
-          <mxGeometry x="89.09" width="61.82" height="32.5" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-4" value="医生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
-          <mxGeometry x="29.090909090909093" y="43.336666666666666" width="80" height="43.33333333333333" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-9" value="患者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-13">
-          <mxGeometry x="139.9990909090909" y="43.336666666666666" width="80" height="43.33333333333333" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-14" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="721" y="62.5" width="260" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-14">
-          <mxGeometry width="240" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-7" value="外部设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-14">
-          <mxGeometry x="103.53" width="52.94" height="32.5" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-10" value="体外程控器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-14">
-          <mxGeometry x="32.99823529411765" y="43.336666666666666" width="84.11764705882352" height="43.33333333333333" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-11" value="刺激器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-14">
-          <mxGeometry x="145.2941176470588" y="43.336666666666666" width="84.11764705882352" height="43.33333333333333" as="geometry" />
-        </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-21" value="蓝牙通信&lt;br&gt;&lt;div&gt;BLE/SPP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="275" width="120" height="50" as="geometry" />
         </mxCell>
@@ -174,6 +144,30 @@
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-77" value="运行环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-32.5" y="920" width="117.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="62.5" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-3" value="用户角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="254.09" y="62.5" width="61.82" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-4" value="医生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194.0909090909091" y="105.83666666666667" width="80" height="43.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-9" value="患者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304.9990909090909" y="105.83666666666667" width="80" height="43.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="721" y="62.5" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-7" value="外部设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="824.53" y="62.5" width="52.94" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-10" value="体外程控器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="753.9982352941176" y="105.83666666666667" width="84.11764705882352" height="43.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-11" value="刺激器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="866.2941176470588" y="105.83666666666667" width="84.11764705882352" height="43.33333333333333" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
