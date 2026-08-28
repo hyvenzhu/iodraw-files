@@ -101,28 +101,28 @@
           <mxGeometry x="660" y="600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-40" value="患者信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="638" width="90" height="30" as="geometry" />
+          <mxGeometry x="520" y="635" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-41" value="阻抗测量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="681" width="90" height="30" as="geometry" />
+          <mxGeometry x="520" y="678" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-42" value="标准程控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="730" width="90" height="30" as="geometry" />
+          <mxGeometry x="520" y="727" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-43" value="三维可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="730" width="90" height="30" as="geometry" />
+          <mxGeometry x="635" y="727" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-44" value="有效刺激测量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="737" y="638" width="90" height="30" as="geometry" />
+          <mxGeometry x="752" y="635" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-45" value="循环程控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="638" width="90" height="30" as="geometry" />
+          <mxGeometry x="635" y="635" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-46" value="定时程控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="681" width="90" height="30" as="geometry" />
+          <mxGeometry x="635" y="678" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-47" value="刺激器日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="737" y="681" width="90" height="30" as="geometry" />
+          <mxGeometry x="752" y="678" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
