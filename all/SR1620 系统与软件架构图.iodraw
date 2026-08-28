@@ -143,13 +143,13 @@
           <mxGeometry x="120" y="906" width="880" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-57" value="本地数据库&lt;br&gt;程控记录/可视化数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="178" y="956" width="169" height="50" as="geometry" />
+          <mxGeometry x="166.5" y="941" width="169" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-58" value="文件存储&lt;br&gt;三维可视化数据/电场文件/系统日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="956" width="220" height="50" as="geometry" />
+          <mxGeometry x="438" y="940" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-59" value="云端存储&lt;br&gt;程控记录/系统日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="956" width="182" height="50" as="geometry" />
+          <mxGeometry x="760" y="940" width="182" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1080" width="880" height="160" as="geometry" />
