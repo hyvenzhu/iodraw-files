@@ -65,34 +65,34 @@
           <mxGeometry x="510" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="600" width="115" height="170" as="geometry" />
+          <mxGeometry x="178" y="600" width="115" height="170" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-29" value="用户管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="208" y="600" width="60" height="30" as="geometry" />
+          <mxGeometry x="201" y="600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-30" value="用户登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="638" width="90" height="30" as="geometry" />
+          <mxGeometry x="190.5" y="638" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-31" value="设备授权" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="681" width="90" height="30" as="geometry" />
+          <mxGeometry x="190.5" y="681" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-32" value="密码管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="723" width="90" height="30" as="geometry" />
+          <mxGeometry x="190.5" y="723" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="600" width="115" height="170" as="geometry" />
+          <mxGeometry x="323" y="600" width="115" height="170" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-34" value="程控记录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="600" width="60" height="30" as="geometry" />
+          <mxGeometry x="350.5" y="600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-35" value="本地记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="638" width="90" height="30" as="geometry" />
+          <mxGeometry x="335.5" y="638" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-36" value="云端记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="681" width="90" height="30" as="geometry" />
+          <mxGeometry x="335.5" y="681" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-37" value="上传记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="723" width="90" height="30" as="geometry" />
+          <mxGeometry x="335.5" y="723" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="600" width="490" height="180" as="geometry" />
@@ -140,10 +140,10 @@
           <mxGeometry x="330" y="810" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-53" value="体外程控器管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="810" width="115" height="50" as="geometry" />
+          <mxGeometry x="500" y="810" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-54" value="刺激器管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="845" y="810" width="115" height="50" as="geometry" />
+          <mxGeometry x="665" y="810" width="115" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
