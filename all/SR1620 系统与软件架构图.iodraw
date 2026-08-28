@@ -124,6 +124,9 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-47" value="刺激器日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="752" y="678" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-48" value="三维可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="737" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
