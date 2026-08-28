@@ -8,7 +8,7 @@
           <mxGeometry x="120" y="40" width="880" height="160" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="240" width="885" height="120" as="geometry" />
+          <mxGeometry x="120" y="240" width="880" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-21" value="蓝牙通信&lt;br&gt;&lt;div&gt;BLE/SPP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="275" width="120" height="50" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="765" y="794" width="182" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="920" width="880" height="120" as="geometry" />
+          <mxGeometry x="120" y="920" width="885" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-62" value="&lt;div&gt;操作系统&lt;/div&gt;Android" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="171.5" y="945" width="204.5" height="70" as="geometry" />
