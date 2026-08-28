@@ -35,10 +35,10 @@
           <mxGeometry x="103.53" width="52.94" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-10" value="体外程控器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-14">
-          <mxGeometry x="30.588235294117645" y="54.166666666666664" width="84.11764705882352" height="43.33333333333333" as="geometry" />
+          <mxGeometry x="32.99823529411765" y="43.336666666666666" width="84.11764705882352" height="43.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-11" value="刺激器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b2mC9_KyoQQHC9tt0Fha-14">
-          <mxGeometry x="145.2941176470588" y="54.166666666666664" width="84.11764705882352" height="43.33333333333333" as="geometry" />
+          <mxGeometry x="145.2941176470588" y="43.336666666666666" width="84.11764705882352" height="43.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-21" value="蓝牙通信&lt;br&gt;&lt;div&gt;BLE/SPP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="315" width="120" height="50" as="geometry" />
