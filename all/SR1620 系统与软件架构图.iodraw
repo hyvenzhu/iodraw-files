@@ -125,10 +125,10 @@
           <mxGeometry x="870" y="727" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-48" value="患者限制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="752" y="727" width="90" height="30" as="geometry" />
+          <mxGeometry x="752" y="678" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-49" value="刺激模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="635" width="90" height="30" as="geometry" />
+          <mxGeometry x="752" y="727" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-50" value="刺激器电量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="680" width="90" height="30" as="geometry" />
