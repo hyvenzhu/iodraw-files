@@ -46,8 +46,8 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-15" value="通信接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-21" value="医生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="170" width="110" height="40" as="geometry" />
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-21" value="Bluetooth&lt;div&gt;BLE/SPP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
