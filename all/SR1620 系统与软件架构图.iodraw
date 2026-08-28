@@ -46,7 +46,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-15" value="通信接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-21" value="蓝牙&lt;br&gt;&lt;div&gt;BLE/SPP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-21" value="蓝牙通信&lt;br&gt;&lt;div&gt;BLE/SPP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="385" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-22" value="云服务&lt;br&gt;HTTPS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
