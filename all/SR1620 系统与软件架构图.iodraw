@@ -181,8 +181,8 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-6" value="信号状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="449.25" y="610" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-7" value="信号状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="459.25" y="620" width="90" height="30" as="geometry" />
+        <mxCell id="YaVVGiqtV-jremNN38ZI-7" value="紧急停止" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="610" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
