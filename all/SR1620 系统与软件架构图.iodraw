@@ -26,7 +26,7 @@
           <mxGeometry x="120" y="400" width="880" height="320" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="165" y="430" width="115" height="180" as="geometry" />
+          <mxGeometry x="165" y="430" width="115" height="270" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-29" value="登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="188" y="430" width="60" height="30" as="geometry" />
@@ -95,16 +95,16 @@
           <mxGeometry x="847" y="465" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-51" value="演示模式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="165" y="640" width="115" height="50" as="geometry" />
+          <mxGeometry x="395" y="640" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-52" value="患者配对" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="640" width="115" height="50" as="geometry" />
+          <mxGeometry x="540" y="640" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-53" value="体外程控器管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="469.5" y="640" width="115" height="50" as="geometry" />
+          <mxGeometry x="699.5" y="640" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-54" value="刺激器管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="627" y="640" width="115" height="50" as="geometry" />
+          <mxGeometry x="857" y="640" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="760" width="880" height="120" as="geometry" />
@@ -168,6 +168,9 @@
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-11" value="刺激器" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="866.2941176470588" y="105.83666666666667" width="84.11764705882352" height="43.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="YaVVGiqtV-jremNN38ZI-1" value="记住密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="567" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
