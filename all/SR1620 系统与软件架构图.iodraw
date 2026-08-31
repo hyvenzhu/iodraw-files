@@ -235,8 +235,8 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-39" value="API 服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="499" y="1041.25" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-40" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1046.25" width="60" height="30" as="geometry" />
+        <mxCell id="YaVVGiqtV-jremNN38ZI-40" value="云平台&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1046.25" width="20" height="43.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
