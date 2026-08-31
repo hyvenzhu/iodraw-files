@@ -25,7 +25,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-24" value="JS Bridge&lt;br&gt;移动端前端调用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E98D38;fillColor=#F6E5D7;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="775" y="275" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;flowAnimation=0;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-25" target="b2mC9_KyoQQHC9tt0Fha-12">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#64B164;shadow=1;flowAnimation=0;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-25" target="b2mC9_KyoQQHC9tt0Fha-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-25" target="b2mC9_KyoQQHC9tt0Fha-55">
@@ -202,7 +202,7 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;shadow=1;fillColor=#DFE2E9;strokeColor=#1E4571;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-2" target="b2mC9_KyoQQHC9tt0Fha-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-22" target="b2mC9_KyoQQHC9tt0Fha-72">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#EB8E3B;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-22" target="b2mC9_KyoQQHC9tt0Fha-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
