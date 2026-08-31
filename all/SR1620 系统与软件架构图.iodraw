@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YaVVGiqtV-jremNN38ZI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Co62xF_4Ux2GXTN0S5Ce-2" target="b2mC9_KyoQQHC9tt0Fha-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Co62xF_4Ux2GXTN0S5Ce-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DFE2E9;shadow=1;glass=0;gradientColor=none;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="880" height="160" as="geometry" />
         </mxCell>
@@ -157,7 +160,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户角色&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;shadow=0;glass=0;" parent="1" vertex="1">
           <mxGeometry x="254.09" y="64.38" width="61.82" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-4" target="b2mC9_KyoQQHC9tt0Fha-25">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;shadow=1;strokeColor=#1C436F;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-4" target="b2mC9_KyoQQHC9tt0Fha-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-4" value="医生" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
