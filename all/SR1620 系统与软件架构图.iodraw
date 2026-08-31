@@ -175,6 +175,9 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-2" value="重置密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="177.5" y="646" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YaVVGiqtV-jremNN38ZI-3" value="系统信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="857" y="518" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
