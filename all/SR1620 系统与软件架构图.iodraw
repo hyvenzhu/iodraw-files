@@ -147,7 +147,7 @@
           <mxGeometry x="443" y="1032.5" width="397" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-72" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="433" y="66.25" width="260" height="107.5" as="geometry" />
+          <mxGeometry x="431" y="67.25" width="260" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-73" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;外部环境&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1C436F;glass=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="40" width="120" height="160" as="geometry" />
