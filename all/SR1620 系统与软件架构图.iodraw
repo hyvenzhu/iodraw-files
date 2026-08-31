@@ -31,7 +31,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登录&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="188" y="430" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-30" value="授权码" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-30" value="授权码" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;" parent="1" vertex="1">
           <mxGeometry x="177.5" y="472" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-31" value="修改初始密码" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
