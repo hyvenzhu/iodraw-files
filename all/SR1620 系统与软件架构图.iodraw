@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-22" value="云服务&lt;br&gt;HTTPS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E98D38;fillColor=#F6E5D7;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="270" width="160" height="60" as="geometry" />
+          <mxGeometry x="547" y="270" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-23" value="本地服务&lt;br&gt;WEB 容器" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E98D38;fillColor=#F6E5D7;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="368" y="270" width="131" height="60" as="geometry" />
@@ -127,7 +127,7 @@
           <mxGeometry x="120" y="840" width="880" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-57" value="本地数据库&lt;br&gt;程控记录/可视化程控" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="171.5" y="868" width="188.5" height="72" as="geometry" />
+          <mxGeometry x="171.5" y="870" width="178.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-58" value="文件存储&lt;br&gt;可视化程控/电场文件/系统日志" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="443" y="867" width="227" height="73" as="geometry" />
