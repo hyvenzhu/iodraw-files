@@ -144,7 +144,7 @@
           <mxGeometry x="171.5" y="1030" width="168.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-66" value="云平台&lt;div&gt;API 服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="443" y="1032.5" width="217" height="55" as="geometry" />
+          <mxGeometry x="443" y="1032.5" width="317" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-72" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="66.25" width="260" height="107.5" as="geometry" />
@@ -227,7 +227,7 @@
           <mxGeometry x="459.9990909090909" y="107.71666666666667" width="80" height="43.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-37" value="影像管理系统" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="569.9990909090909" y="107.71666666666667" width="80" height="43.33333333333333" as="geometry" />
+          <mxGeometry x="579.9990909090909" y="107.71666666666667" width="80" height="43.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;后台系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="529.09" y="64.38" width="61.82" height="32.5" as="geometry" />
