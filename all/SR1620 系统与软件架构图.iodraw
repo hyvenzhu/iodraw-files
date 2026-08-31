@@ -121,7 +121,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-59" value="云端存储&lt;br&gt;程控记录/系统日志" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="765" y="867" width="182" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#C5494A;strokeColor=#b85450;shape=flexArrow;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-60" target="b2mC9_KyoQQHC9tt0Fha-55">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#C5494A;shape=flexArrow;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-60" target="b2mC9_KyoQQHC9tt0Fha-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-60" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#F0E4E5;shadow=1;glass=0;" parent="1" vertex="1">
