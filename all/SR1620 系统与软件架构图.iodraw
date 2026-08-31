@@ -187,6 +187,9 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-8" value="连接体外程控器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="759.56" y="676" width="73" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YaVVGiqtV-jremNN38ZI-9" value="连接体外程控器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="871.8499999999999" y="676" width="73" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
