@@ -223,8 +223,11 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.818;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;dashed=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-6" target="b2mC9_KyoQQHC9tt0Fha-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-36" value="患者" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="197.4990909090909" y="117.71666666666667" width="80" height="43.33333333333333" as="geometry" />
+        <mxCell id="YaVVGiqtV-jremNN38ZI-36" value="客服系统" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="449.9990909090909" y="107.71666666666667" width="80" height="43.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="YaVVGiqtV-jremNN38ZI-37" value="客服系统" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="459.9990909090909" y="117.71666666666667" width="80" height="43.33333333333333" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
