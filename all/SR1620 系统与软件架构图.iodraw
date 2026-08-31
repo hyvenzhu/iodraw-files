@@ -235,19 +235,22 @@
           <mxGeometry x="529.09" y="64.38" width="61.82" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-39" value="API 服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="581" y="1048.1299999999999" width="57.25" height="30" as="geometry" />
+          <mxGeometry x="650" y="1048.1299999999999" width="57.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-40" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;云平台&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="450" y="1041.25" width="20" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-41" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="672.16" y="1048.1299999999999" width="57.25" height="30" as="geometry" />
+          <mxGeometry x="741.16" y="1048.1299999999999" width="57.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-42" value="防火墙" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="1048.1299999999999" width="57.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-43" value="OBS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="765" y="1048.1299999999999" width="57.25" height="30" as="geometry" />
+          <mxGeometry x="834" y="1048.1299999999999" width="57.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YaVVGiqtV-jremNN38ZI-44" value="API 服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1058.1299999999999" width="57.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
