@@ -199,11 +199,11 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-9" value="检查更新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="733.25" y="730" width="96.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;fillColor=#DFE2E9;strokeColor=#1E4571;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="b2mC9_KyoQQHC9tt0Fha-25">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;fillColor=#DFE2E9;strokeColor=#1E4571;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-4" target="b2mC9_KyoQQHC9tt0Fha-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="151" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="340" y="220" />
+              <mxPoint x="355" y="220" />
               <mxPoint x="339" y="220" />
               <mxPoint x="339" y="400" />
             </Array>
