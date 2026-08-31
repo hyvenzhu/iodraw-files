@@ -204,6 +204,9 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-9" value="检查更新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="733.25" y="730" width="96.75" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YaVVGiqtV-jremNN38ZI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.818;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-6" target="b2mC9_KyoQQHC9tt0Fha-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
