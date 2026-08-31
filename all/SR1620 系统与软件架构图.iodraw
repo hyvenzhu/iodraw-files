@@ -94,7 +94,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-51" value="演示模式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="287.5" y="676" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-52" value="患者配对" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-52" value="配对" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="412.5" y="682" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-53" value="体外程控器管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
