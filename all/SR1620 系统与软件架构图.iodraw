@@ -104,7 +104,7 @@
           <mxGeometry x="120" y="840" width="880" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-57" value="本地数据库&lt;br&gt;程控记录/可视化数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="171.5" y="875" width="169" height="50" as="geometry" />
+          <mxGeometry x="171.5" y="875" width="168.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-58" value="文件存储&lt;br&gt;三维可视化数据/电场文件/系统日志" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="443" y="874" width="220" height="50" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="171.5" y="1030" width="168.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-66" value="云平台&lt;div&gt;API 服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="443" y="1040" width="177" height="55" as="geometry" />
+          <mxGeometry x="443" y="1032.5" width="177" height="55" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-72" value="景昱医疗后台" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="466" y="66.25" width="188" height="107.5" as="geometry" />
