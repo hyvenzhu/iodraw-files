@@ -239,7 +239,7 @@
           <mxGeometry x="675.75" y="1049.0600000000002" width="68" height="31.87" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-40" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;云平台&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1041.25" width="20" height="43.75" as="geometry" />
+          <mxGeometry x="450" y="1043.13" width="20" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-41" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="766.91" y="1049.0600000000002" width="66.84" height="31.87" as="geometry" />
