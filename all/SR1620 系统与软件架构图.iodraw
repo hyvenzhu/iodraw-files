@@ -92,7 +92,7 @@
           <mxGeometry x="847" y="465" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-51" value="演示模式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="395" y="640" width="115" height="50" as="geometry" />
+          <mxGeometry x="395" y="640" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-52" value="患者配对" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="640" width="115" height="50" as="geometry" />
