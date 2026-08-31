@@ -146,7 +146,7 @@
           <mxGeometry x="254.09" y="62.5" width="61.82" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-4" value="医生" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="194.0909090909091" y="105.83666666666667" width="80" height="43.33333333333333" as="geometry" />
+          <mxGeometry x="185.0009090909091" y="105.83666666666667" width="80" height="43.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-9" value="患者" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="304.9990909090909" y="105.83666666666667" width="80" height="43.33333333333333" as="geometry" />
@@ -155,13 +155,13 @@
           <mxGeometry x="721" y="62.5" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-7" value="外部设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="824.53" y="62.5" width="52.94" height="32.5" as="geometry" />
+          <mxGeometry x="820" y="62.5" width="52.94" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-10" value="体外程控器" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="742.9982352941176" y="105.83666666666667" width="84.11764705882352" height="43.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-11" value="刺激器" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="866.2941176470588" y="105.83666666666667" width="84.11764705882352" height="43.33333333333333" as="geometry" />
+          <mxGeometry x="860.0041176470588" y="105.83666666666667" width="84.11764705882352" height="43.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-1" value="忘记密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="177.5" y="600" width="90" height="30" as="geometry" />
