@@ -178,7 +178,7 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-5" value="刺激器模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="557" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-6" value="刺激状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-6" value="信号状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="463" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
