@@ -23,7 +23,7 @@
           <mxGeometry x="775" y="275" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="400" width="880" height="390" as="geometry" />
+          <mxGeometry x="120" y="400" width="880" height="400" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="430" width="115" height="260" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="-32.5" y="240" width="117.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-75" value="应用软件层" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-35" y="400" width="120" height="320" as="geometry" />
+          <mxGeometry x="-35" y="400" width="120" height="410" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-76" value="数据层" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40.75" y="850" width="122.5" height="120" as="geometry" />
