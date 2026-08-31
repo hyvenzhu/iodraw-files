@@ -172,8 +172,8 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-1" value="忘记密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="177.5" y="600" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-2" value="忘记密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="177.5" y="650" width="90" height="30" as="geometry" />
+        <mxCell id="YaVVGiqtV-jremNN38ZI-2" value="重置密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="646" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
