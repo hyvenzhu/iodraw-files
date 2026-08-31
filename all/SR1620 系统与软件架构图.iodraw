@@ -133,7 +133,7 @@
           <mxGeometry x="443" y="867" width="227" height="73" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-59" value="云端存储&lt;br&gt;程控记录/程控日志" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="765" y="867" width="182" height="66" as="geometry" />
+          <mxGeometry x="750" y="867" width="197" height="73" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#E9D3D5;strokeColor=#C5494A;shape=flexArrow;shadow=1;dashed=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-60" target="b2mC9_KyoQQHC9tt0Fha-55">
           <mxGeometry relative="1" as="geometry" />
@@ -142,7 +142,7 @@
           <mxGeometry x="120" y="1000" width="880" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-62" value="&lt;div&gt;操作系统&lt;/div&gt;Android" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="171.5" y="1030" width="168.5" height="60" as="geometry" />
+          <mxGeometry x="171.5" y="1030" width="178.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-66" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="443" y="1032.5" width="497" height="57.5" as="geometry" />
