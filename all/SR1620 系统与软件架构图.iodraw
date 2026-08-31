@@ -58,7 +58,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="430" width="500" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-39" value="程控核心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-39" value="程控模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="697" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-40" value="患者信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
