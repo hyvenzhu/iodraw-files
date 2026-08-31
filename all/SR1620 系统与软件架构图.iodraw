@@ -182,10 +182,10 @@
           <mxGeometry x="607" y="640" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-8" value="连接&lt;div&gt;体外程控器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="730" width="85" height="30" as="geometry" />
+          <mxGeometry x="310" y="730" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-9" value="检查更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="739.7499999999999" y="730" width="73" height="30" as="geometry" />
+          <mxGeometry x="733.2499999999999" y="730" width="73" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
