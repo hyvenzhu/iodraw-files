@@ -7,6 +7,9 @@
         <mxCell id="Co62xF_4Ux2GXTN0S5Ce-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DFE2E9;shadow=1;glass=0;gradientColor=none;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="880" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="YaVVGiqtV-jremNN38ZI-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-12" target="b2mC9_KyoQQHC9tt0Fha-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7EBE0;strokeColor=none;shadow=1;glass=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="240" width="880" height="120" as="geometry" />
         </mxCell>
@@ -22,7 +25,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-24" value="JS Bridge&lt;br&gt;移动端前端调用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E98D38;fillColor=#F6E5D7;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="775" y="275" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-25" target="b2mC9_KyoQQHC9tt0Fha-12">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;flowAnimation=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-25" target="b2mC9_KyoQQHC9tt0Fha-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-25" target="b2mC9_KyoQQHC9tt0Fha-55">
