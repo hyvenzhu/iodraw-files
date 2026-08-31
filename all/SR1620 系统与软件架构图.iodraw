@@ -91,9 +91,6 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-50" value="程序运行时长" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840.75" y="463" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-51" value="演示模式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="287.5" y="676" width="85" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-52" value="配对" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="412.5" y="682" width="70" height="30" as="geometry" />
         </mxCell>
@@ -185,7 +182,7 @@
           <mxGeometry x="605.75" y="608" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-8" value="连接体外程控器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="759.56" y="676" width="73" height="30" as="geometry" />
+          <mxGeometry x="304.99999999999994" y="630" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-9" value="检查更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="871.8499999999999" y="676" width="73" height="30" as="geometry" />
