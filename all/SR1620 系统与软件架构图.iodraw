@@ -22,7 +22,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-24" value="JS Bridge&lt;br&gt;移动端前端调用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E98D38;fillColor=#F6E5D7;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="775" y="275" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E7EFE6;shadow=1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E7EFE6;shadow=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="120" y="400" width="880" height="400" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-28" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
