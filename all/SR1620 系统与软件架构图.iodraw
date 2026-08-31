@@ -91,13 +91,13 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-50" value="程序运行时长" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;" parent="1" vertex="1">
           <mxGeometry x="842.75" y="472" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-52" value="配对" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-52" value="配对" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="730" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-53" value="搜索刺激器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-53" value="搜索刺激器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="168.25" y="730" width="90.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-54" value="连接刺激器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-54" value="连接刺激器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="598.5" y="730" width="81.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-55" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ECE7F3;" parent="1" vertex="1">
@@ -181,10 +181,10 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-7" value="紧急停止" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;" vertex="1" parent="1">
           <mxGeometry x="607" y="640" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-8" value="连接&lt;div&gt;体外程控器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;" vertex="1" parent="1">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-8" value="连接&lt;div&gt;体外程控器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="730" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-9" value="检查更新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;" vertex="1" parent="1">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-9" value="检查更新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="733.25" y="730" width="96.75" height="40" as="geometry" />
         </mxCell>
       </root>
