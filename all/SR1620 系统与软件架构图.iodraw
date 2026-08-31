@@ -92,13 +92,13 @@
           <mxGeometry x="840.75" y="463" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-52" value="配对" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="443" y="682" width="70" height="30" as="geometry" />
+          <mxGeometry x="466" y="730" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-53" value="搜索刺激器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="730" width="90.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-54" value="连接刺激器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="659.5" y="676" width="73" height="30" as="geometry" />
+          <mxGeometry x="598.5" y="730" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="116.75" y="850" width="880" height="120" as="geometry" />
@@ -182,10 +182,10 @@
           <mxGeometry x="605.75" y="608" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-8" value="连接体外程控器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="630" width="85" height="30" as="geometry" />
+          <mxGeometry x="307.5" y="730" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-9" value="检查更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="871.8499999999999" y="676" width="73" height="30" as="geometry" />
+          <mxGeometry x="739.7499999999999" y="730" width="73" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
