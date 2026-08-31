@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Co62xF_4Ux2GXTN0S5Ce-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DFE2E9;shadow=1;glass=0;gradientColor=none;gradientDirection=west;" parent="1" vertex="1">
+        <mxCell id="Co62xF_4Ux2GXTN0S5Ce-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DFE2E9;shadow=1;glass=0;gradientColor=none;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="880" height="160" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-12" target="b2mC9_KyoQQHC9tt0Fha-40">
@@ -121,7 +121,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-59" value="云端存储&lt;br&gt;程控记录/系统日志" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="765" y="867" width="182" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#E9D3D5;strokeColor=#C5494A;shape=flexArrow;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-60" target="b2mC9_KyoQQHC9tt0Fha-55">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#E9D3D5;strokeColor=#C5494A;shape=flexArrow;shadow=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-60" target="b2mC9_KyoQQHC9tt0Fha-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-60" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#F0E4E5;shadow=1;glass=0;" parent="1" vertex="1">
@@ -136,7 +136,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-72" value="景昱医疗后台" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="466" y="68.13" width="188" height="107.5" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-73" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;外部环境&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1C436F;glass=1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-73" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;外部环境&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1C436F;glass=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="40" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-74" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;通信接口&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E98D38;strokeColor=none;glass=1;" parent="1" vertex="1">
