@@ -31,7 +31,7 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;flowAnimation=0;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-25" target="b2mC9_KyoQQHC9tt0Fha-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-25" target="b2mC9_KyoQQHC9tt0Fha-55">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;shadow=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-25" target="b2mC9_KyoQQHC9tt0Fha-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E7EFE6;shadow=1;glass=0;" parent="1" vertex="1">
@@ -112,7 +112,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-54" value="连接刺激器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="598.5" y="730" width="81.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-55" target="b2mC9_KyoQQHC9tt0Fha-60">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-55" target="b2mC9_KyoQQHC9tt0Fha-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-55" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ECE7F3;shadow=1;glass=0;" parent="1" vertex="1">
