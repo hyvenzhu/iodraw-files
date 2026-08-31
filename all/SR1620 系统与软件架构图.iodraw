@@ -101,25 +101,25 @@
           <mxGeometry x="598.5" y="730" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="116.75" y="850" width="880" height="120" as="geometry" />
+          <mxGeometry x="120" y="840" width="880" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-57" value="本地数据库&lt;br&gt;程控记录/可视化数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="168.25" y="885" width="169" height="50" as="geometry" />
+          <mxGeometry x="171.5" y="875" width="169" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-58" value="文件存储&lt;br&gt;三维可视化数据/电场文件/系统日志" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="439.75" y="884" width="220" height="50" as="geometry" />
+          <mxGeometry x="443" y="874" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-59" value="云端存储&lt;br&gt;程控记录/系统日志" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="761.75" y="884" width="182" height="50" as="geometry" />
+          <mxGeometry x="765" y="874" width="182" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="116.75" y="1010" width="880" height="120" as="geometry" />
+          <mxGeometry x="120" y="1000" width="880" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-62" value="&lt;div&gt;操作系统&lt;/div&gt;Android" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="168.25" y="1035" width="204.5" height="70" as="geometry" />
+          <mxGeometry x="171.5" y="1025" width="204.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-66" value="云平台&lt;div&gt;API 服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="439.75" y="1035" width="180" height="70" as="geometry" />
+          <mxGeometry x="443" y="1025" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-72" value="景昱医疗后台" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="466" y="66.25" width="188" height="107.5" as="geometry" />
@@ -131,13 +131,13 @@
           <mxGeometry x="-32.5" y="240" width="117.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-75" value="应用软件层" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-35" y="400" width="120" height="410" as="geometry" />
+          <mxGeometry x="-35" y="400" width="120" height="400" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-76" value="数据层" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-40.75" y="850" width="122.5" height="120" as="geometry" />
+          <mxGeometry x="-37.5" y="840" width="122.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-77" value="运行环境" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-35.75" y="1010" width="117.5" height="120" as="geometry" />
+          <mxGeometry x="-32.5" y="1000" width="117.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="165" y="62.5" width="230" height="110" as="geometry" />
