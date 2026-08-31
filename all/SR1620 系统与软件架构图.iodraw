@@ -74,7 +74,7 @@
           <mxGeometry x="612" y="557" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-44" value="有效刺激测量" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="729" y="465" width="90" height="30" as="geometry" />
+          <mxGeometry x="857" y="545" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-45" value="循环刺激程序" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="612" y="465" width="90" height="30" as="geometry" />
@@ -82,7 +82,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-46" value="定时刺激" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="612" y="508" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-47" value="系统日志" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-47" value="系统信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="847" y="508" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-48" value="患者限制" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
