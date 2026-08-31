@@ -100,25 +100,25 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-54" value="连接刺激器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="598.5" y="730" width="81.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-55" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ECE7F3;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-55" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ECE7F3;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="840" width="880" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-57" value="本地数据库&lt;br&gt;程控记录/可视化数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-57" value="本地数据库&lt;br&gt;程控记录/可视化数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="171.5" y="868" width="168.5" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-58" value="文件存储&lt;br&gt;三维可视化数据/电场文件/系统日志" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-58" value="文件存储&lt;br&gt;三维可视化数据/电场文件/系统日志" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="443" y="867" width="220" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-59" value="云端存储&lt;br&gt;程控记录/系统日志" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-59" value="云端存储&lt;br&gt;程控记录/系统日志" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="765" y="867" width="182" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-60" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#F0E4E5;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-60" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#F0E4E5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1000" width="880" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-62" value="&lt;div&gt;操作系统&lt;/div&gt;Android" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-62" value="&lt;div&gt;操作系统&lt;/div&gt;Android" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="1030" width="168.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-66" value="云平台&lt;div&gt;API 服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-66" value="云平台&lt;div&gt;API 服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="436.5" y="1032.5" width="177" height="55" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-72" value="景昱医疗后台" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
