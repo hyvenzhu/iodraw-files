@@ -28,12 +28,12 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-24" value="JS Bridge&lt;br&gt;移动端前端调用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E98D38;fillColor=#F6E5D7;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="775" y="275" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#64B164;shadow=1;flowAnimation=0;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-25">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#64B164;shadow=1;flowAnimation=0;strokeWidth=2;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#64B164;gradientColor=none;shadow=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-25" target="b2mC9_KyoQQHC9tt0Fha-55">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#64B164;gradientColor=none;shadow=1;strokeWidth=2;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-25" target="b2mC9_KyoQQHC9tt0Fha-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E7EFE6;shadow=1;glass=0;" parent="1" vertex="1">
