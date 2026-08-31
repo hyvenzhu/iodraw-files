@@ -56,7 +56,7 @@
           <mxGeometry x="300" y="560" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="430" width="540" height="180" as="geometry" />
+          <mxGeometry x="430" y="430" width="530" height="220" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-39" value="程控核心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="697" y="430" width="60" height="30" as="geometry" />
@@ -179,7 +179,10 @@
           <mxGeometry x="800" y="557" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-6" value="信号状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="463" width="90" height="30" as="geometry" />
+          <mxGeometry x="449.25" y="610" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YaVVGiqtV-jremNN38ZI-7" value="信号状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459.25" y="620" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
