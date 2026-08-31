@@ -95,13 +95,13 @@
           <mxGeometry x="395" y="640" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-52" value="患者配对" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="640" width="115" height="50" as="geometry" />
+          <mxGeometry x="540" y="640" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-53" value="体外程控器管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="699.5" y="640" width="115" height="50" as="geometry" />
+          <mxGeometry x="699.5" y="640" width="90.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-54" value="刺激器管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="857" y="640" width="115" height="50" as="geometry" />
+          <mxGeometry x="910" y="640" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="760" width="880" height="120" as="geometry" />
