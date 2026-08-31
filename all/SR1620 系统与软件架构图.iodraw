@@ -241,7 +241,7 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-41" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="572.88" y="1048.1299999999999" width="57.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-42" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" vertex="1" parent="1">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-42" value="防火墙" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="655.53" y="1048.1299999999999" width="57.25" height="30" as="geometry" />
         </mxCell>
       </root>
