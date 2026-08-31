@@ -106,7 +106,7 @@
           <mxGeometry x="842.75" y="472" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-52" value="配对" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="828.5" y="730" width="90" height="40" as="geometry" />
+          <mxGeometry x="313.40999999999997" y="730" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64B164;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-53" target="b2mC9_KyoQQHC9tt0Fha-54">
           <mxGeometry relative="1" as="geometry" />
@@ -214,7 +214,7 @@
           <mxGeometry x="370" y="730" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-9" value="检查更新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-329.9999999999999" y="750" width="96.75" height="40" as="geometry" />
+          <mxGeometry x="171.5000000000001" y="730" width="96.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.818;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;dashed=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-6" target="b2mC9_KyoQQHC9tt0Fha-12">
           <mxGeometry relative="1" as="geometry" />
