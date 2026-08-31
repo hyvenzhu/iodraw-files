@@ -128,7 +128,7 @@
           <mxGeometry x="-37.5" y="40" width="117.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-74" value="接口层" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="240" width="117.5" height="120" as="geometry" />
+          <mxGeometry x="-40" y="240" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-75" value="应用软件层" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="400" width="120" height="400" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry x="824.53" y="62.5" width="52.94" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-10" value="体外程控器" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="753.9982352941176" y="105.83666666666667" width="84.11764705882352" height="43.33333333333333" as="geometry" />
+          <mxGeometry x="742.9982352941176" y="105.83666666666667" width="84.11764705882352" height="43.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-11" value="刺激器" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="866.2941176470588" y="105.83666666666667" width="84.11764705882352" height="43.33333333333333" as="geometry" />
