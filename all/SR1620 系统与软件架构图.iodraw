@@ -23,7 +23,7 @@
           <mxGeometry x="775" y="275" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="400" width="880" height="320" as="geometry" />
+          <mxGeometry x="120" y="400" width="860" height="400" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="430" width="115" height="260" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="443" y="682" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-53" value="搜索刺激器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="305" y="682" width="90.5" height="30" as="geometry" />
+          <mxGeometry x="150" y="730" width="90.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-54" value="连接刺激器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="659.5" y="676" width="73" height="30" as="geometry" />
