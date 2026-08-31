@@ -176,7 +176,7 @@
           <mxGeometry x="840.75" y="555" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-6" value="信号状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="608" width="90" height="30" as="geometry" />
+          <mxGeometry x="490.75" y="630" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-7" value="紧急停止" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605.75" y="608" width="90" height="30" as="geometry" />
