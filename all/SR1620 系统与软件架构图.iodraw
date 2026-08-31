@@ -127,7 +127,7 @@
           <mxGeometry x="120" y="840" width="880" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-57" value="本地数据库&lt;br&gt;程控记录/可视化程控" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="171.5" y="868" width="168.5" height="65" as="geometry" />
+          <mxGeometry x="171.5" y="868" width="188.5" height="72" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-58" value="文件存储&lt;br&gt;可视化程控/电场文件/系统日志" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="443" y="867" width="227" height="73" as="geometry" />
