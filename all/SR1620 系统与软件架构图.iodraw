@@ -201,7 +201,7 @@
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;fillColor=#DFE2E9;strokeColor=#1E4571;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="b2mC9_KyoQQHC9tt0Fha-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="230" as="sourcePoint" />
+            <mxPoint x="380" y="220" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="340" y="151" />
             </Array>
