@@ -10,13 +10,13 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="240" width="880" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-21" value="蓝牙通信&lt;br&gt;&lt;div&gt;BLE/SPP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-21" value="蓝牙通信&lt;br&gt;&lt;div&gt;BLE/SPP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E98D38;" parent="1" vertex="1">
           <mxGeometry x="365" y="275" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-22" value="云服务&lt;br&gt;HTTPS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E98D38;" parent="1" vertex="1">
           <mxGeometry x="165" y="275" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-23" value="本地服务&lt;br&gt;WEB 容器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-23" value="本地服务&lt;br&gt;WEB 容器" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E98D38;" parent="1" vertex="1">
           <mxGeometry x="575" y="275" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-24" value="JS Bridge&lt;br&gt;移动端前端调用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
