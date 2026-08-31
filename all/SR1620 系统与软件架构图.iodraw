@@ -103,13 +103,13 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="840" width="880" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-57" value="本地数据库&lt;br&gt;程控记录/可视化数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-57" value="本地数据库&lt;br&gt;程控记录/可视化数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;" parent="1" vertex="1">
           <mxGeometry x="171.5" y="868" width="168.5" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-58" value="文件存储&lt;br&gt;三维可视化数据/电场文件/系统日志" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-58" value="文件存储&lt;br&gt;三维可视化数据/电场文件/系统日志" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;" parent="1" vertex="1">
           <mxGeometry x="443" y="867" width="220" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-59" value="云端存储&lt;br&gt;程控记录/系统日志" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-59" value="云端存储&lt;br&gt;程控记录/系统日志" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;" parent="1" vertex="1">
           <mxGeometry x="765" y="867" width="182" height="66" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -133,7 +133,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-75" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;应用软件层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64B164;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-40" y="400" width="120" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-76" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-76" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#915AC6;" parent="1" vertex="1">
           <mxGeometry x="-37.5" y="840" width="117.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-77" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;运行环境&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
