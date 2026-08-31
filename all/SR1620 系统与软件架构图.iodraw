@@ -55,19 +55,19 @@
           <mxGeometry x="184" y="557" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-33" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="315.91" y="430" width="115" height="260" as="geometry" />
+          <mxGeometry x="324" y="430" width="115" height="260" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;程控记录&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="343.41" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="351.5" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-35" value="本地数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="328.41" y="472" width="90" height="30" as="geometry" />
+          <mxGeometry x="336.5" y="472" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-36" value="远程数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="328.41" y="531" width="90" height="30" as="geometry" />
+          <mxGeometry x="336.5" y="531" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-37" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="328.41" y="589" width="90" height="30" as="geometry" />
+          <mxGeometry x="336.5" y="589" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-38" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="430" width="480" height="260" as="geometry" />
