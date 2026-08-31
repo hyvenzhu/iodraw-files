@@ -107,10 +107,10 @@
           <mxGeometry x="171.5" y="875" width="168.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-58" value="文件存储&lt;br&gt;三维可视化数据/电场文件/系统日志" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="443" y="874" width="220" height="50" as="geometry" />
+          <mxGeometry x="443" y="874" width="220" height="56" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-59" value="云端存储&lt;br&gt;程控记录/系统日志" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="765" y="874" width="182" height="50" as="geometry" />
+          <mxGeometry x="765" y="874" width="182" height="56" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1000" width="880" height="120" as="geometry" />
