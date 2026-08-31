@@ -121,7 +121,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-66" value="云平台&lt;div&gt;API 服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="436.5" y="1032.5" width="177" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-72" value="景昱医疗后台" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-72" value="景昱医疗后台" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;" parent="1" vertex="1">
           <mxGeometry x="466" y="68.13" width="188" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-73" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;外部环境层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1C436F;" parent="1" vertex="1">
@@ -148,7 +148,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-4" value="医生" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D1D6DF;" parent="1" vertex="1">
           <mxGeometry x="185.0009090909091" y="107.71666666666667" width="80" height="43.33333333333333" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-9" value="患者" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-9" value="患者" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#D1D6DF;" parent="1" vertex="1">
           <mxGeometry x="299.9990909090909" y="107.71666666666667" width="80" height="43.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
