@@ -240,7 +240,7 @@
           <mxGeometry x="194" y="1169" width="94.25" height="31.87" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-40" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;云平台Cloud platforam&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="1163.13" width="20" height="43.75" as="geometry" />
+          <mxGeometry x="-180" y="1163.13" width="60" height="126.87" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-41" value="数据库&lt;div&gt;Database&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="1169.07" width="83.09" height="31.87" as="geometry" />
