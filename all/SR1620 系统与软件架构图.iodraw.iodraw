@@ -189,7 +189,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-10" value="体外程控器&lt;div&gt;&amp;nbsp;Communicator&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="160.99823529411765" y="112.71666666666667" width="84.11764705882352" height="43.33333333333333" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-11" value="刺激器" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-11" value="刺激器&lt;div&gt;IPG&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="278.0041176470588" y="112.71666666666667" width="84.11764705882352" height="43.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-1" value="忘记密码" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
