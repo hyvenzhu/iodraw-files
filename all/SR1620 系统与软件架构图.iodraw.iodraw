@@ -175,7 +175,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-4" value="医生&lt;div&gt;Physician&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-286" y="112.72" width="76" height="57.28" as="geometry" />
+          <mxGeometry x="-284" y="112.72" width="76" height="57.28" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-9" value="患者&lt;div&gt;Patient&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-398.5" y="112.72" width="78.5" height="57.28" as="geometry" />
@@ -184,7 +184,7 @@
           <mxGeometry x="138" y="60" width="242" height="119.38" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;外部设备&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div class=&quot;ybc-p&quot;&gt;External device&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="200.38" y="72.25" width="117.25" height="32.5" as="geometry" />
+          <mxGeometry x="200.38" y="69.25" width="117.25" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-10" value="体外程控器&lt;div&gt;&amp;nbsp;WLR&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="161" y="112.72" width="89" height="57.28" as="geometry" />
@@ -233,7 +233,7 @@
           <mxGeometry x="-10" y="110" width="99.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;后台系统&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Backend system&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;shadow=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="72.25" width="116.91" height="32.5" as="geometry" />
+          <mxGeometry x="-80" y="68.25" width="116.91" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-39" value="API 服务&lt;br&gt;API Service" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="89.75" y="1054.0600000000002" width="68" height="31.87" as="geometry" />
