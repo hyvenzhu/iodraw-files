@@ -25,13 +25,10 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-24" value="移动端调用前端&lt;br&gt;&lt;div&gt;JS Bridge&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E98D38;fillColor=#F6E5D7;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="194" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#64B164;shadow=1;flowAnimation=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="b2mC9_KyoQQHC9tt0Fha-12">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#64B164;shadow=1;flowAnimation=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="b2mC9_KyoQQHC9tt0Fha-25" edge="1" target="b2mC9_KyoQQHC9tt0Fha-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-26" y="360" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="67" y="380" />
-              <mxPoint x="67" y="380" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="67" y="395" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
