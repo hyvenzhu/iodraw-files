@@ -187,7 +187,7 @@
           <mxGeometry x="200.38" y="72.25" width="117.25" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-10" value="体外程控器&lt;div&gt;&amp;nbsp;WLR&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="160.99823529411765" y="112.71666666666667" width="84.11764705882352" height="43.33333333333333" as="geometry" />
+          <mxGeometry x="161" y="112.72" width="89" height="57.28" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-11" value="刺激器&lt;div&gt;IPG&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="278.0041176470588" y="112.71666666666667" width="84.11764705882352" height="43.33333333333333" as="geometry" />
@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-36" value="客服系统&lt;div&gt;&lt;div class=&quot;ybc-p&quot;&gt;Patient care software&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="112.72" width="100" height="57.28" as="geometry" />
+          <mxGeometry x="-140" y="112.72" width="110" height="57.28" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-37" value="图像处理软件&lt;span style=&quot;background-color: initial;&quot;&gt;Image processing software&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="110" width="99.75" height="60" as="geometry" />
