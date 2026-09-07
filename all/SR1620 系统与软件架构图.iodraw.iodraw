@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E7EFE6;shadow=1;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="-466" y="405" width="1066" height="495" as="geometry" />
+          <mxGeometry x="-466" y="405" width="1066" height="515" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-28" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-414.5" y="435" width="174.5" height="365" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry x="-626" y="245" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-75" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;应用软件层&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b style=&quot;font-size: 16px; color: rgb(255, 255, 255); background-color: initial;&quot;&gt;Application software layer&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#64B164;strokeColor=none;glass=1;" parent="1" vertex="1">
-          <mxGeometry x="-626" y="405" width="126" height="495" as="geometry" />
+          <mxGeometry x="-626" y="405" width="126" height="515" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-76" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;数据存储&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Data storage&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#915AC6;glass=1;" parent="1" vertex="1">
           <mxGeometry x="-626" y="960" width="120" height="120" as="geometry" />
