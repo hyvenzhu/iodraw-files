@@ -106,7 +106,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-50" value="程序运行时长&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Program running time&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="266.75" y="477" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-52" value="配对" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-52" value="配对&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Pairing&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-249.50000000000006" y="735" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64B164;shadow=1;" parent="1" source="b2mC9_KyoQQHC9tt0Fha-53" target="b2mC9_KyoQQHC9tt0Fha-54" edge="1">
@@ -215,7 +215,7 @@
             <mxPoint x="-6.5" y="755.0000000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-8" value="连接&lt;div&gt;体外程控器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" parent="1" vertex="1">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-8" value="连接&lt;div&gt;体外程控器&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Connection to WLR&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-96" y="735" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-9" value="检查更新&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Check for Updates&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8D8;strokeColor=#64B164;shadow=1;" parent="1" vertex="1">
