@@ -252,7 +252,7 @@
           <mxGeometry x="-17.25" y="1169.06" width="87.25" height="40.94" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-43" value="文件存储&lt;div&gt;File storage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="1169.07" width="100.25" height="31.87" as="geometry" />
+          <mxGeometry x="426.13" y="1169.07" width="86" height="40.93" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-44" value="网关服务&lt;div&gt;Gateware&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="89.75" y="1169.06" width="80.25" height="40.94" as="geometry" />
