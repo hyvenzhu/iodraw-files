@@ -1,9 +1,24 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="GEZeTAIb5GPFuSDhm75G">
-    <mxGraphModel dx="2501" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-30" value="授权码&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&amp;lt;br/&amp;gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&amp;lt;br/&amp;gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Authorization Code&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-402" y="486" width="142" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-31" value="修改初始密码&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&amp;lt;br/&amp;gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&amp;lt;br/&amp;gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Modify Initial Password&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-402" y="547" width="142" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-32" value="记住密码&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Remember Password&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-402" y="616" width="142" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="YaVVGiqtV-jremNN38ZI-1" value="忘记密码&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&amp;lt;br/&amp;gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&amp;lt;br/&amp;gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Forget Password&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-402" y="684" width="142" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="YaVVGiqtV-jremNN38ZI-2" value="重置密码&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Reset Password&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-398.5" y="750" width="142" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="Co62xF_4Ux2GXTN0S5Ce-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#DFE2E9;shadow=1;glass=0;gradientColor=none;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="-466" y="30" width="1066" height="170" as="geometry" />
         </mxCell>
@@ -53,15 +68,6 @@
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登录 Login&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-381.75" y="447" width="101.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-30" value="授权码&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&amp;lt;br/&amp;gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&amp;lt;br/&amp;gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Authorization Code&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-402" y="486" width="142" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-31" value="修改初始密码&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&amp;lt;br/&amp;gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&amp;lt;br/&amp;gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Modify Initial Password&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-402" y="547" width="142" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-32" value="记住密码&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Remember Password&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-402" y="616" width="142" height="44" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-33" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-208" y="435" width="150" height="365" as="geometry" />
@@ -208,12 +214,6 @@
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-11" value="刺激器&lt;div&gt;IPG&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="439.88" y="103.99" width="82" height="57.28" as="geometry" />
-        </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-1" value="忘记密码&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&amp;lt;br/&amp;gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&amp;lt;br/&amp;gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Forget Password&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-402" y="684" width="142" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-2" value="重置密码&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Reset Password&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-398.5" y="750" width="142" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-3" value="系统日志&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&amp;lt;br/&amp;gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&amp;lt;br/&amp;gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;System Log&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="274" y="572" width="116" height="51.5" as="geometry" />
