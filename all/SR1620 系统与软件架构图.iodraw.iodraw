@@ -21,7 +21,7 @@
             <mxPoint x="42" y="270" as="sourcePoint" />
             <mxPoint x="43" y="164.75" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="205" y="190" />
+              <mxPoint x="194" y="190" />
               <mxPoint x="117" y="190" />
             </Array>
           </mxGeometry>
@@ -204,7 +204,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-10" value="体外程控器&lt;div&gt;&amp;nbsp;WLR&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="310.5" y="103.99" width="89" height="57.28" as="geometry" />
+          <mxGeometry x="311.5" y="103.99" width="89" height="57.28" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-11" value="刺激器&lt;div&gt;IPG&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="439.88" y="103.99" width="82" height="57.28" as="geometry" />
