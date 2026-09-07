@@ -237,7 +237,7 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-36" value="客服系统&lt;div&gt;&lt;div class=&quot;ybc-p&quot;&gt;Patient Care Software&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-59.00000000000001" y="105.36" width="102.25" height="57.28" as="geometry" />
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-37" value="图像处理软件&lt;span style=&quot;background-color: initial;&quot;&gt;Image processing software&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-37" value="图像处理软件&lt;span style=&quot;background-color: initial;&quot;&gt;Image Processing Software&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="63.24999999999999" y="102.64" width="99.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;后台系统&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Backend System&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;shadow=0;glass=0;" parent="1" vertex="1">
