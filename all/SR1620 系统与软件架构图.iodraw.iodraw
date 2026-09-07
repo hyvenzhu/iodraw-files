@@ -226,7 +226,7 @@
             <mxPoint x="257.84000000000015" y="244.03999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YaVVGiqtV-jremNN38ZI-36" value="客服系统&lt;div&gt;&lt;div class=&quot;ybc-p&quot;&gt;Customer service system&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
+        <mxCell id="YaVVGiqtV-jremNN38ZI-36" value="客服系统&lt;div&gt;&lt;div class=&quot;ybc-p&quot;&gt;Customer service&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-125.00090909090909" y="112.71666666666667" width="80" height="43.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-37" value="影像管理系统" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
