@@ -186,7 +186,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-4" value="医生&lt;div&gt;Physician&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-277" y="96.72" width="76" height="57.28" as="geometry" />
+          <mxGeometry x="-284" y="96.72" width="76" height="57.28" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-9" value="患者&lt;div&gt;Patient&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-398.5" y="97.72" width="78.5" height="57.28" as="geometry" />
