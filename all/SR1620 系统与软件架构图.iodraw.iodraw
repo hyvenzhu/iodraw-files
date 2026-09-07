@@ -146,7 +146,7 @@
           <mxGeometry x="-414.5" y="1150" width="188.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-66" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="1150" width="610" height="70" as="geometry" />
+          <mxGeometry x="-100" y="1150" width="630" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-72" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="60" width="256" height="119.75" as="geometry" />
@@ -240,7 +240,7 @@
           <mxGeometry x="194" y="1169" width="94.25" height="31.87" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-40" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;云平台Cloud platforam&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-77.25" y="1180" width="60" height="68.44" as="geometry" />
+          <mxGeometry x="-99" y="1151.56" width="60" height="68.44" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-41" value="数据库&lt;div&gt;Database&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="1169.07" width="83.09" height="31.87" as="geometry" />
