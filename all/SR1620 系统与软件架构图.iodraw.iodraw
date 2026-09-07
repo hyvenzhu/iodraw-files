@@ -261,6 +261,12 @@
         <mxCell id="YaVVGiqtV-jremNN38ZI-44" value="网关服务&lt;div&gt;Gateware&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="107" y="1159" width="80.25" height="40.94" as="geometry" />
         </mxCell>
+        <mxCell id="Yz3w8arLaQBSO1nlCigL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#64B164;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105.82999999999986" y="870" as="sourcePoint" />
+            <mxPoint x="166" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
