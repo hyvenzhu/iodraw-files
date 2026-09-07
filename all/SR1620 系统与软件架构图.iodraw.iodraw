@@ -10,6 +10,9 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7EBE0;strokeColor=none;shadow=1;glass=0;" parent="1" vertex="1">
           <mxGeometry x="-466" y="240" width="1066" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="Yz3w8arLaQBSO1nlCigL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-21" target="b2mC9_KyoQQHC9tt0Fha-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-21" value="蓝牙通信&lt;br&gt;&lt;div&gt;BLE/SPP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E98D38;fillColor=#F6E5D7;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="401.5" y="270" width="138.5" height="60" as="geometry" />
         </mxCell>
@@ -258,16 +261,6 @@
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-44" value="网关服务&lt;div&gt;Gateware&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="107" y="1159" width="80.25" height="40.94" as="geometry" />
-        </mxCell>
-        <mxCell id="Yz3w8arLaQBSO1nlCigL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#E98D38;shadow=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-21" target="b2mC9_KyoQQHC9tt0Fha-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="215" y="283" as="sourcePoint" />
-            <mxPoint x="127" y="182" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="471" y="200" />
-              <mxPoint x="368" y="200" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
