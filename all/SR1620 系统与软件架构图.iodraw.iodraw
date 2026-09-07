@@ -146,7 +146,7 @@
           <mxGeometry x="-414.5" y="1150" width="188.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-66" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="1150" width="510" height="70" as="geometry" />
+          <mxGeometry x="-80" y="1150" width="610" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-72" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="60" width="256" height="119.75" as="geometry" />
@@ -249,7 +249,7 @@
           <mxGeometry x="-17.25" y="1169.0600000000002" width="61" height="31.87" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-43" value="文件存储&lt;div&gt;File storage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="339.75" y="1169.0600000000002" width="64" height="31.87" as="geometry" />
+          <mxGeometry x="414" y="1169.07" width="100.25" height="31.87" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-44" value="网关服务&lt;div&gt;Gateware&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="67.75" y="1169.0600000000002" width="66" height="31.87" as="geometry" />
