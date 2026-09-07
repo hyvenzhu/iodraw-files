@@ -132,7 +132,7 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-58" value="文件存储&lt;div&gt;File storage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-143" y="875" width="207" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="b2mC9_KyoQQHC9tt0Fha-59" value="云端存储&lt;br&gt;程控记录/程控日志" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="b2mC9_KyoQQHC9tt0Fha-59" value="云端存储&lt;br&gt;Cloud storage" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#915AC6;fillColor=#E9E1F1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="164" y="875" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#E9D3D5;strokeColor=#C5494A;shape=flexArrow;shadow=1;dashed=1;" parent="1" source="b2mC9_KyoQQHC9tt0Fha-60" target="b2mC9_KyoQQHC9tt0Fha-55" edge="1">
