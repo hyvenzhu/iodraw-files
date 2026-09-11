@@ -57,10 +57,10 @@
           <mxGeometry x="-196" y="499" width="126" height="41" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-36" value="上传数据&lt;div&gt;Upload Data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-196" y="570" width="126" height="55" as="geometry" />
+          <mxGeometry x="-196" y="570" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-37" value="搜索&lt;div&gt;Search&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-196" y="652" width="126" height="45" as="geometry" />
+          <mxGeometry x="-196" y="641" width="126" height="38" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-38" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-25.67" y="430" width="565.67" height="370" as="geometry" />
