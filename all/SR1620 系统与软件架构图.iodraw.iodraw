@@ -263,7 +263,7 @@
           <mxGeometry x="436.13" y="1159.07" width="86" height="40.93" as="geometry" />
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-44" value="网关服务&lt;div&gt;Gateware&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="107" y="1159" width="80.25" height="40.94" as="geometry" />
+          <mxGeometry x="105" y="1159" width="80.25" height="40.94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
