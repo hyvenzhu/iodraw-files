@@ -16,6 +16,11 @@
         <mxCell id="wlTT51AJAjd85Qs_3-yB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#E98D38;shadow=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-22" target="b2mC9_KyoQQHC9tt0Fha-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wlTT51AJAjd85Qs_3-yB-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wlTT51AJAjd85Qs_3-yB-1">
+          <mxGeometry x="0.0018" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-22" value="互联网&lt;br&gt;Internet" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E98D38;fillColor=#F6E5D7;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-27.24000000000001" y="270" width="160" height="60" as="geometry" />
         </mxCell>
