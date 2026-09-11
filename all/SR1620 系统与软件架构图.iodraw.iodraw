@@ -198,7 +198,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-10" value="体外程控器&lt;div&gt;&amp;nbsp;WLR&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="311.5" y="103.99" width="89" height="57.28" as="geometry" />
+          <mxGeometry x="330" y="103.99" width="50" height="57.28" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-11" value="刺激器&lt;div&gt;IPG&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="482.01" y="105.36" width="40.12" height="57.28" as="geometry" />
