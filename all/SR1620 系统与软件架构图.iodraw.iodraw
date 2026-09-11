@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-21" value="蓝牙通信&lt;br&gt;&lt;div&gt;BLE/SPP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E98D38;fillColor=#F6E5D7;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="360.13" y="270" width="138.5" height="60" as="geometry" />
+          <mxGeometry x="349.13" y="270" width="138.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wlTT51AJAjd85Qs_3-yB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#E98D38;shadow=1;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-22" target="b2mC9_KyoQQHC9tt0Fha-72">
           <mxGeometry relative="1" as="geometry" />
