@@ -35,9 +35,6 @@
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-28" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64B164;fillColor=#DAE8D8;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-414.5" y="435" width="174.5" height="365" as="geometry" />
         </mxCell>
-        <mxCell id="wlTT51AJAjd85Qs_3-yB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-21" target="b2mC9_KyoQQHC9tt0Fha-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="b2mC9_KyoQQHC9tt0Fha-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登录 Login&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-381.75" y="447" width="101.5" height="30" as="geometry" />
         </mxCell>
@@ -251,6 +248,9 @@
         </mxCell>
         <mxCell id="YaVVGiqtV-jremNN38ZI-44" value="网关服务&lt;div&gt;Gateware&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C5494A;fillColor=#E9D3D5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="107" y="1159" width="80.25" height="40.94" as="geometry" />
+        </mxCell>
+        <mxCell id="wlTT51AJAjd85Qs_3-yB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#E98D38;" edge="1" parent="1" source="b2mC9_KyoQQHC9tt0Fha-21" target="b2mC9_KyoQQHC9tt0Fha-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
