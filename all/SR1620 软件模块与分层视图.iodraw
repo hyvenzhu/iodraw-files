@@ -138,7 +138,7 @@
         <mxCell id="To1uN-9F8QiZ87z0Xyqu-45" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C436F;fillColor=#D1D6DF;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-75" y="52.63" width="256" height="119.75" as="geometry" />
         </mxCell>
-        <mxCell id="To1uN-9F8QiZ87z0Xyqu-46" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;用户界面&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;User Interface&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1C436F;glass=1;" vertex="1" parent="1">
+        <mxCell id="To1uN-9F8QiZ87z0Xyqu-46" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;用户交互&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1C436F;glass=1;" vertex="1" parent="1">
           <mxGeometry x="-626" y="30" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="To1uN-9F8QiZ87z0Xyqu-47" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;应用逻辑&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E98D38;strokeColor=none;glass=1;shadow=0;" vertex="1" parent="1">
